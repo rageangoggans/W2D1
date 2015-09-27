@@ -1,0 +1,2 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Week2Day1.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2Day1\ConsoleApplication1\bin\Debug\Week2Day1.exe.config
